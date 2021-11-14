@@ -13,3 +13,4 @@ for item in data['ValCurs']['Valute']:
     print(my_set)
     # ~ print(my_array)
 
+
